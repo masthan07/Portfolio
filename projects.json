@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Gemini Chatbot",
+        "technologies": [
+            "Python",
+            "Streamlit",
+            "NLP"
+        ],
+        "description": "An intelligent chatbot capable of context-aware conversations using ML and NLP.",
+        "repository": "https://github.com/masthan07/Gemini-Chatbot"
+    },
+    {
+        "title": "Panda - Smart Voice Assistant",
+        "technologies": [
+            "Python",
+            "Streamlit",
+            "Speech Recognition"
+        ],
+        "description": "Voice-activated assistant to interact with users and perform tasks using NLP.",
+        "repository": "https://github.com/masthan07/Panda-Voice-Assistant"
+    },
+    {
+        "title": "Real-Time Hand Gesture & Finger Counter",
+        "description": "A real-time hand gesture recognition system that uses computer vision to track and count fingers from webcam input, supporting multiple hands and different hand orientations",
+        "repository": "https://github.com/masthan07/Hand_Gesture_recognition",
+        "technologies": [
+            "Python",
+            "OpenCV",
+            "Mediapipe"
+        ]
+    }
+]
